@@ -1,0 +1,13 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal -160 -40 176 40
+WINDOW 0 8 -40 Bottom 2
+PIN -160 -16 LEFT 8
+PINATTR PinName +9V
+PINATTR SpiceOrder 1
+PIN -160 16 LEFT 8
+PINATTR PinName From_Power
+PINATTR SpiceOrder 2
+PIN 176 0 RIGHT 8
+PINATTR PinName Vert_Sync
+PINATTR SpiceOrder 3

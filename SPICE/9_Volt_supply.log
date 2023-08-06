@@ -1,0 +1,21 @@
+Circuit: * C:\Users\Matt\OneDrive - University of Pittsburgh\TVG2\Power\9_Volt_Supply.asc
+
+.OP point found by inspection.
+
+Date: Fri Nov 12 15:28:22 2021
+Total elapsed time: 0.418 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 23366
+traniter = 23366
+tranpoints = 7853
+accept = 5702
+rejected = 2151
+matrix size = 11
+fillins = 2
+solver = Normal
+Matrix Compiler1: 770 bytes object code size  0.2/0.1/[0.1]
+Matrix Compiler2: off  [0.1]/0.1/0.1
+
