@@ -1,0 +1,100 @@
+Circuit: * C:\Users\Matt\OneDrive - University of Pittsburgh\TVG2\Power\Power_Full.asc
+
+.OP point found by inspection.
+Heightened Def Con from 0.0551952 to 0.0551952
+Heightened Def Con from 0.0551952 to 0.0551952
+Heightened Def Con from 0.0551952 to 0.0551952
+Heightened Def Con from 0.0551952 to 0.0551952
+Heightened Def Con from 0.0551952 to 0.0551952
+Heightened Def Con from 0.0551952 to 0.0551952
+Heightened Def Con from 0.0551952 to 0.0551952
+Heightened Def Con from 0.0551952 to 0.0551952
+Heightened Def Con from 0.0551952 to 0.0551952
+Heightened Def Con from 0.0551952 to 0.0551952
+Heightened Def Con from 0.0551952 to 0.0551952
+Heightened Def Con from 0.0555214 to 0.0555214
+Heightened Def Con from 0.0885287 to 0.0885287
+Heightened Def Con from 0.0885287 to 0.0885287
+Heightened Def Con from 0.121961 to 0.121961
+Heightened Def Con from 0.13853 to 0.13853
+Heightened Def Con from 0.13853 to 0.13853
+Heightened Def Con from 0.13853 to 0.13853
+Heightened Def Con from 0.13853 to 0.13853
+Heightened Def Con from 0.13853 to 0.13853
+Heightened Def Con from 0.138823 to 0.138823
+Heightened Def Con from 0.171864 to 0.171864
+Heightened Def Con from 0.18853 to 0.18853
+Heightened Def Con from 0.18853 to 0.18853
+Heightened Def Con from 0.18853 to 0.18853
+Heightened Def Con from 0.221864 to 0.221864
+Heightened Def Con from 0.221864 to 0.221864
+Heightened Def Con from 0.25523 to 0.25523
+Heightened Def Con from 0.279788 to 0.279788
+Heightened Def Con from 0.30562 to 0.30562
+Heightened Def Con from 0.322058 to 0.322058
+Heightened Def Con from 0.322058 to 0.322058
+Heightened Def Con from 0.338561 to 0.338561
+Heightened Def Con from 0.363122 to 0.363122
+Heightened Def Con from 0.405653 to 0.405653
+Heightened Def Con from 0.41312 to 0.41312
+Heightened Def Con from 0.446454 to 0.446454
+Heightened Def Con from 0.471862 to 0.471862
+Heightened Def Con from 0.479787 to 0.479787
+Heightened Def Con from 0.496455 to 0.496455
+Heightened Def Con from 0.505196 to 0.505196
+Heightened Def Con from 0.505326 to 0.505326
+Heightened Def Con from 0.521992 to 0.521992
+Heightened Def Con from 0.522058 to 0.522058
+Heightened Def Con from 0.529788 to 0.529788
+Heightened Def Con from 0.555196 to 0.555196
+Heightened Def Con from 0.571864 to 0.571864
+Heightened Def Con from 0.571864 to 0.571864
+Heightened Def Con from 0.571864 to 0.571864
+Heightened Def Con from 0.588562 to 0.588562
+Heightened Def Con from 0.605194 to 0.605194
+Heightened Def Con from 0.605553 to 0.605553
+Heightened Def Con from 0.621861 to 0.621861
+Heightened Def Con from 0.63882 to 0.63882
+Heightened Def Con from 0.655193 to 0.655193
+Heightened Def Con from 0.696454 to 0.696454
+Heightened Def Con from 0.713119 to 0.713119
+Heightened Def Con from 0.72186 to 0.72186
+Heightened Def Con from 0.72186 to 0.72186
+Heightened Def Con from 0.72186 to 0.72186
+Heightened Def Con from 0.738559 to 0.738559
+Heightened Def Con from 0.755192 to 0.755192
+Heightened Def Con from 0.755192 to 0.755192
+Heightened Def Con from 0.771859 to 0.771859
+Heightened Def Con from 0.788526 to 0.788526
+Heightened Def Con from 0.805192 to 0.805192
+Heightened Def Con from 0.821858 to 0.821858
+Heightened Def Con from 0.888524 to 0.888524
+Heightened Def Con from 0.888524 to 0.888524
+Heightened Def Con from 0.905192 to 0.905192
+Heightened Def Con from 0.905192 to 0.905192
+Heightened Def Con from 0.921858 to 0.921859
+Heightened Def Con from 0.955192 to 0.955192
+Heightened Def Con from 0.955192 to 0.955192
+Heightened Def Con from 0.955192 to 0.955192
+Heightened Def Con from 0.955192 to 0.955192
+Heightened Def Con from 0.971859 to 0.971859
+Heightened Def Con from 0.971859 to 0.971859
+Heightened Def Con from 0.971859 to 0.971859
+
+Date: Wed Nov 17 17:26:19 2021
+Total elapsed time: 46.275 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 8591811
+traniter = 8591811
+tranpoints = 2513602
+accept = 1762632
+rejected = 751049
+matrix size = 47
+fillins = 30
+solver = Normal
+Matrix Compiler1: 4.84 KB object code size  0.8/0.5/[0.4]
+Matrix Compiler2: 4.34 KB object code size  0.3/0.5/[0.3]
+

@@ -1,0 +1,21 @@
+Circuit: * C:\Users\Matt\OneDrive - University of Pittsburgh\TVG2\Sync\Horizontal.asc
+
+.OP point found by inspection.
+
+Date: Sat Nov 13 18:20:57 2021
+Total elapsed time: 30.458 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 8516199
+traniter = 8516199
+tranpoints = 2490274
+accept = 1745177
+rejected = 745097
+matrix size = 21
+fillins = 18
+solver = Normal
+Matrix Compiler1: 2.52 KB object code size  0.4/0.3/[0.2]
+Matrix Compiler2: off  [0.2]/0.3/0.2
+
