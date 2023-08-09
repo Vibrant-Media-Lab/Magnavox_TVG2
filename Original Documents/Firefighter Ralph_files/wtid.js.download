@@ -1,0 +1,3 @@
+if (typeof(Webtrends.dcss.dcsobj_0.dcsGetIdCallback)=="function"){
+Webtrends.dcss.dcsobj_0.dcsGetIdCallback({"gWtId":"71.60.147.175-1869567504.31049951","gTempWtId":"","gWtAccountRollup":"1"});
+}
