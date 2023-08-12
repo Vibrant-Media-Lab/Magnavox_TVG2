@@ -11,3 +11,6 @@ Record=SheetSymbol|SourceDocument=TVG2.SchDoc|Designator=VERT DMV #2|SchDesignat
 Record=SheetSymbol|SourceDocument=Chroma_VDO.SchDoc|Designator=Chroma Frequency Generation|SchDesignator=Chroma Frequency Generation|FileName=Chroma phase shifter.SchDoc|SheetNumber=9|SymbolType=Normal|RawFileName=Chroma phase shifter.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=Chroma_VDO.SchDoc|Designator=Chroma VDO Driver|SchDesignator=Chroma VDO Driver|FileName=Chroma_VDO_Driver.SchDoc|SheetNumber=11|SymbolType=Normal|RawFileName=Chroma_VDO_Driver.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=Chroma phase shifter.SchDoc|Designator=3.5795MHz|SchDesignator=3.5795MHz|FileName=Pierce Oscillator.SchDoc|SheetNumber=10|SymbolType=Normal|RawFileName=Pierce Oscillator.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=TVG2.SchDoc|FileName=Coincidence Gate.SchDoc|SheetNumber=14
+Record=NoMainPathDocument|SourceDocument=TVG2.SchDoc|FileName=Silicon Controlled Rectifier.SchDoc|SheetNumber=13
+Record=NoMainPathDocument|SourceDocument=TVG2.SchDoc|FileName=Timer.SchDoc|SheetNumber=12
