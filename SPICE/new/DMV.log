@@ -1,0 +1,28 @@
+Circuit: * D:\Git\Magnavox_TVG2\SPICE\new\DMV.asc
+
+Limiting rise time of source v5 to 0.0001
+Limiting fall time of source v5 to 0.0001
+Limiting rise time of source v4 to 4.7e-007
+Limiting fall time of source v4 to 4.7e-007
+Limiting rise time of source v3 to 0.0012195
+Limiting fall time of source v3 to 0.0012195
+WARNING: Less than two connections to node NC_01.  This node is used by V3.
+.OP point found by inspection.
+
+Date: Thu Aug 24 21:41:52 2023
+Total elapsed time: 6.392 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 1329080
+traniter = 1329080
+tranpoints = 466675
+accept = 354232
+rejected = 112443
+matrix size = 62
+fillins = 16
+solver = Normal
+Matrix Compiler1: 4.93 KB object code size  0.9/0.3/[0.4]
+Matrix Compiler2: off  [0.3]/0.4/0.3
+
