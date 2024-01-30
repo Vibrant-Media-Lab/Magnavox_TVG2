@@ -1,0 +1,76 @@
+# Created by Ultra Librarian 8.3.344 Copyright © 1999-2021
+# Frank Frank, Accelerated Designs
+
+StartFootprints
+
+Footprint (Name "STA_CF14_STP")
+Pad (Name "1") (Location 0, 0) (HoleSize 35) (Surface False) (Rotation 0) (ExpandMask 0) (ExpandPaste -27.5)
+PadShape (Size 55, 55) (Shape Rectangular) (Layer Top)
+PadShape (Size 55, 55) (Shape Rectangular) (Layer Bottom)
+EndPad
+Pad (Name "2") (Location 450, 0) (HoleSize 35) (Surface False) (Rotation 180) (ExpandMask 0) (ExpandPaste -27.5)
+PadShape (Size 55, 55) (Shape Rounded) (Layer Top)
+PadShape (Size 55, 55) (Shape Rounded) (Layer Bottom)
+EndPad
+Line (Width 6) (Start -37.5, -37.5) (End -37.5, 37.5) (Layer Mechanical15) 
+Line (Width 6) (Start -37.5, 37.5) (End 91, 37.5) (Layer Mechanical15) 
+Line (Width 6) (Start 359, 37.5) (End 487.5, 37.5) (Layer Mechanical15) 
+Line (Width 6) (Start 487.5, 37.5) (End 487.5, -37.5) (Layer Mechanical15) 
+Line (Width 6) (Start 487.5, -37.5) (End 359, -37.5) (Layer Mechanical15) 
+Line (Width 6) (Start 91, -37.5) (End -37.5, -37.5) (Layer Mechanical15) 
+Line (Width 6) (Start 91, -61.5) (End 91, -37.5) (Layer Mechanical15) 
+Line (Width 6) (Start 91, 37.5) (End 91, 61.5) (Layer Mechanical15) 
+Line (Width 6) (Start 91, 61.5) (End 359, 61.5) (Layer Mechanical15) 
+Line (Width 6) (Start 359, 61.5) (End 359, 37.5) (Layer Mechanical15) 
+Line (Width 6) (Start 359, -37.5) (End 359, -61.5) (Layer Mechanical15) 
+Line (Width 6) (Start 359, -61.5) (End 91, -61.5) (Layer Mechanical15) 
+Polygon (PointCount 12) (Layer Mechanical15) 
+Point (-37.5, -37.5)
+Point (-37.5, 37.5)
+Point (91, 37.5)
+Point (91, 61.5)
+Point (359, 61.5)
+Point (359, 37.5)
+Point (487.5, 37.5)
+Point (487.5, -37.5)
+Point (359, -37.5)
+Point (359, -61.5)
+Point (91, -61.5)
+Point (91, -37.5)
+EndPolygon
+Line (Width 6) (Start 96, -56.5) (End 354, -56.5) (Layer TopOverlay) 
+Line (Width 6) (Start 354, -56.5) (End 354, 56.5) (Layer TopOverlay) 
+Line (Width 6) (Start 354, 56.5) (End 96, 56.5) (Layer TopOverlay) 
+Line (Width 6) (Start 96, 56.5) (End 96, -56.5) (Layer TopOverlay) 
+Line (Width 1) (Start 0, 0) (End 101, 0) (Layer Mechanical13) 
+Line (Width 1) (Start 450, 0) (End 349, 0) (Layer Mechanical13) 
+Line (Width 1) (Start 101, -51.5) (End 349, -51.5) (Layer Mechanical13) 
+Line (Width 1) (Start 349, -51.5) (End 349, 51.5) (Layer Mechanical13) 
+Line (Width 1) (Start 349, 51.5) (End 101, 51.5) (Layer Mechanical13) 
+Line (Width 1) (Start 101, 51.5) (End 101, -51.5) (Layer Mechanical13) 
+Step (Name STA_CF14_STP.step)
+EndFootprint
+EndFootprints
+
+StartComponents
+
+Component (Name "CF14JT100K") (PartCount 1) (DesPrefix "R?")
+Pin (Location 100, 0) (Rotation 180) (PinType Passive) (Length 100) (Width 0) (Designator Hidden "1") (Name Visible "1") (PinSwap 1) (PartSwap 1) (PinSeq 1) (Part 1)
+Pin (Location 400, 0) (Rotation 0) (PinType Passive) (Length 100) (Width 0) (Designator Hidden "2") (Name Hidden "2") (PinSwap 1) (PartSwap 1) (PinSeq 2) (Part 1)
+Line (Width 8) (Start 125, 50) (End 175, -50) (Part 1)
+Line (Width 8) (Start 175, -50) (End 225, 50) (Part 1)
+Line (Width 8) (Start 225, 50) (End 275, -50) (Part 1)
+Line (Width 8) (Start 275, -50) (End 325, 50) (Part 1)
+Line (Width 8) (Start 325, 50) (End 375, -50) (Part 1)
+Line (Width 8) (Start 100, 0) (End 125, 50) (Part 1)
+Line (Width 8) (Start 375, -50) (End 400, 0) (Part 1)
+Parameter (Name "Copyright") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "Copyright (C) 2024 Ultra Librarian. All rights reserved.") (Part 1)
+Parameter (Name "Mfr_Name") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "Stackpole International") (Part 1)
+Parameter (Name "Manufacturer_Part_Number") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "CF14JT100K") (Part 1)
+Parameter (Name "RefDes") (Location 225, 150) (Height 137) (Rotation 0) (Justification Center) (Value "RefDes") (Part 1)
+Parameter (Name "Type") (Location 250, -275) (Height 137) (Rotation 0) (Justification Center) (Value "DEV") (Part 1)
+Description (Value "No Description Available") (Part 1)
+Comment (Value "CF14JT100K") (Part 1)
+Footprint (Name "STA_CF14_STP")
+EndComponent
+EndComponents
