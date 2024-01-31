@@ -1,0 +1,381 @@
+Added Component: Designator=BUS(Conn_Bus_ISA8)
+Added Component: Designator=C1(RHDR5W53P0X254_1X5_1270X246X425P - cap)
+Added Component: Designator=C2(RHDR5W53P0X254_1X5_1270X246X425P - cap)
+Added Component: Designator=C3(RHDR5W53P0X254_1X5_1270X246X425P - cap)
+Added Component: Designator=C4(RHDR5W53P0X254_1X5_1270X246X425P - cap)
+Added Component: Designator=C5(RHDR5W53P0X254_1X5_1270X246X425P - cap)
+Added Component: Designator=C6(RHDR5W53P0X254_1X5_1270X246X425P - cap)
+Added Component: Designator=C7(RHDR5W53P0X254_1X5_1270X246X425P - cap)
+Added Component: Designator=C8(RHDR5W53P0X254_1X5_1270X246X425P - cap)
+Added Component: Designator=C9(RHDR5W53P0X254_1X5_1270X246X425P - cap)
+Added Component: Designator=C10(RHDR5W53P0X254_1X5_1270X246X425P - cap)
+Added Component: Designator=C11(RHDR5W53P0X254_1X5_1270X246X425P - cap)
+Added Component: Designator=C12(RHDR5W53P0X254_1X5_1270X246X425P - cap)
+Added Component: Designator=C13(RHDR5W53P0X254_1X5_1270X246X425P - cap)
+Added Component: Designator=C14(RHDR5W53P0X254_1X5_1270X246X425P - cap)
+Added Component: Designator=J1(CONN_AH-1-TH)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2024 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "102-3996-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "UP2-AH-1-TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "CUI Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(9179310341005000)
+Add component (AddParameter): Name = "Copyright"; Value = "Damien Hu"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(9179310341005000)
+Add component (AddParameter): Name = "Copyright"; Value = "Damien Hu"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(9179310341005000)
+Added Component: Designator=Q4(9179310341005000)
+Add component (AddParameter): Name = "Copyright"; Value = "Damien Hu"; VariantName = "[No Variations]"
+Added Component: Designator=Q5(9179310341005000)
+Add component (AddParameter): Name = "Copyright"; Value = "Damien Hu"; VariantName = "[No Variations]"
+Added Component: Designator=Q6(9179310341005000)
+Added Component: Designator=Q7(9179310341005000)
+Add component (AddParameter): Name = "Copyright"; Value = "Damien Hu"; VariantName = "[No Variations]"
+Added Component: Designator=Q8(9179310341005000)
+Add component (AddParameter): Name = "Copyright"; Value = "Damien Hu"; VariantName = "[No Variations]"
+Added Component: Designator=Q9(9179310341005000)
+Added Component: Designator=Q10(9179310341005000)
+Add component (AddParameter): Name = "Copyright"; Value = "Damien Hu"; VariantName = "[No Variations]"
+Added Component: Designator=Q11(9179310341005000)
+Add component (AddParameter): Name = "Copyright"; Value = "Damien Hu"; VariantName = "[No Variations]"
+Added Component: Designator=Q12(9179310341005000)
+Added Component: Designator=R1(RHDR5W53P0X254_1X5_1270X246X425P)
+Add component (AddParameter): Name = "Copyright"; Value = "Damien Hu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CF14JT100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Stackpole International"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RHDR5W53P0X254_1X5_1270X246X425P)
+Add component (AddParameter): Name = "Copyright"; Value = "Damien Hu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CF14JT100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Stackpole International"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RHDR5W53P0X254_1X5_1270X246X425P)
+Add component (AddParameter): Name = "Copyright"; Value = "Damien Hu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CF14JT100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Stackpole International"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RHDR5W53P0X254_1X5_1270X246X425P)
+Add component (AddParameter): Name = "Copyright"; Value = "Damien Hu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CF14JT100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Stackpole International"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RHDR5W53P0X254_1X5_1270X246X425P)
+Add component (AddParameter): Name = "Copyright"; Value = "Damien Hu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CF14JT100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Stackpole International"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RHDR5W53P0X254_1X5_1270X246X425P)
+Add component (AddParameter): Name = "Copyright"; Value = "Damien Hu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CF14JT100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Stackpole International"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R7(TRIM_3352T-1-104LF)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Bourns'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "3352T-1-104LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R8(RHDR5W53P0X254_1X5_1270X246X425P)
+Add component (AddParameter): Name = "Copyright"; Value = "Damien Hu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CF14JT100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Stackpole International"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RHDR5W53P0X254_1X5_1270X246X425P)
+Add component (AddParameter): Name = "Copyright"; Value = "Damien Hu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CF14JT100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Stackpole International"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RHDR5W53P0X254_1X5_1270X246X425P)
+Add component (AddParameter): Name = "Copyright"; Value = "Damien Hu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CF14JT100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Stackpole International"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RHDR5W53P0X254_1X5_1270X246X425P)
+Add component (AddParameter): Name = "Copyright"; Value = "Damien Hu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CF14JT100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Stackpole International"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RHDR5W53P0X254_1X5_1270X246X425P)
+Add component (AddParameter): Name = "Copyright"; Value = "Damien Hu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CF14JT100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Stackpole International"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RHDR5W53P0X254_1X5_1270X246X425P)
+Add component (AddParameter): Name = "Copyright"; Value = "Damien Hu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CF14JT100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Stackpole International"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R14(TRIM_3352T-1-104LF)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Bourns'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "3352T-1-104LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R15(RHDR5W53P0X254_1X5_1270X246X425P)
+Add component (AddParameter): Name = "Copyright"; Value = "Damien Hu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CF14JT100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Stackpole International"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RHDR5W53P0X254_1X5_1270X246X425P)
+Add component (AddParameter): Name = "Copyright"; Value = "Damien Hu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CF14JT100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Stackpole International"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R17(RHDR5W53P0X254_1X5_1270X246X425P)
+Add component (AddParameter): Name = "Copyright"; Value = "Damien Hu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CF14JT100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Stackpole International"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R18(RHDR5W53P0X254_1X5_1270X246X425P)
+Add component (AddParameter): Name = "Copyright"; Value = "Damien Hu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CF14JT100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Stackpole International"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R19(RHDR5W53P0X254_1X5_1270X246X425P)
+Add component (AddParameter): Name = "Copyright"; Value = "Damien Hu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CF14JT100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Stackpole International"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R20(RHDR5W53P0X254_1X5_1270X246X425P)
+Add component (AddParameter): Name = "Copyright"; Value = "Damien Hu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CF14JT100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Stackpole International"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R21(RHDR5W53P0X254_1X5_1270X246X425P)
+Add component (AddParameter): Name = "Copyright"; Value = "Damien Hu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CF14JT100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Stackpole International"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R22(TRIM_3352T-1-104LF)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Bourns'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "3352T-1-104LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R23(RHDR5W53P0X254_1X5_1270X246X425P)
+Add component (AddParameter): Name = "Copyright"; Value = "Damien Hu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CF14JT100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Stackpole International"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R24(RHDR5W53P0X254_1X5_1270X246X425P)
+Add component (AddParameter): Name = "Copyright"; Value = "Damien Hu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CF14JT100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Stackpole International"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R25(RHDR5W53P0X254_1X5_1270X246X425P)
+Add component (AddParameter): Name = "Copyright"; Value = "Damien Hu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CF14JT100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Stackpole International"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R26(RHDR5W53P0X254_1X5_1270X246X425P)
+Add component (AddParameter): Name = "Copyright"; Value = "Damien Hu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CF14JT100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Stackpole International"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R27(RHDR5W53P0X254_1X5_1270X246X425P)
+Add component (AddParameter): Name = "Copyright"; Value = "Damien Hu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CF14JT100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Stackpole International"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R28(RHDR5W53P0X254_1X5_1270X246X425P)
+Add component (AddParameter): Name = "Copyright"; Value = "Damien Hu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CF14JT100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Stackpole International"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R29(TRIM_3352T-1-104LF)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Bourns'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "3352T-1-104LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R30(RHDR5W53P0X254_1X5_1270X246X425P)
+Add component (AddParameter): Name = "Copyright"; Value = "Damien Hu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CF14JT100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Stackpole International"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(7205MD9AV2BE)
+Added Net: Name=+9
+Added Pin To Net: NetName=-9 Pin=Q1-3
+Added Pin To Net: NetName=-9 Pin=Q2-1
+Added Pin To Net: NetName=-9 Pin=Q4-3
+Added Pin To Net: NetName=-9 Pin=Q5-3
+Added Pin To Net: NetName=-9 Pin=Q7-3
+Added Pin To Net: NetName=-9 Pin=Q8-1
+Added Pin To Net: NetName=-9 Pin=Q10-3
+Added Pin To Net: NetName=-9 Pin=Q11-3
+Added Pin To Net: NetName=-9 Pin=R7-3
+Added Pin To Net: NetName=-9 Pin=R14-3
+Added Pin To Net: NetName=-9 Pin=R15-1
+Added Pin To Net: NetName=-9 Pin=R22-3
+Added Pin To Net: NetName=-9 Pin=R29-3
+Added Pin To Net: NetName=-9 Pin=R30-1
+Added Net: Name=-9
+Added Pin To Net: NetName=DMV1_OUT Pin=Q3-3
+Added Pin To Net: NetName=DMV1_OUT Pin=Q6-3
+Added Net: Name=DMV1_OUT
+Added Pin To Net: NetName=DMV2_OUT Pin=Q9-3
+Added Pin To Net: NetName=DMV2_OUT Pin=Q12-3
+Added Net: Name=DMV2_OUT
+Added Pin To Net: NetName=GND Pin=BUS-1
+Added Pin To Net: NetName=GND Pin=BUS-31
+Added Pin To Net: NetName=GND Pin=BUS-32
+Added Pin To Net: NetName=GND Pin=BUS-62
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=GND Pin=Q3-1
+Added Pin To Net: NetName=GND Pin=Q6-1
+Added Pin To Net: NetName=GND Pin=Q9-1
+Added Pin To Net: NetName=GND Pin=Q12-1
+Added Pin To Net: NetName=GND Pin=SW1-2
+Added Pin To Net: NetName=GND Pin=SW1-5
+Added Pin To Net: NetName=GND Pin=SW1-7
+Added Pin To Net: NetName=GND Pin=SW1-7
+Added Net: Name=GND
+Added Pin To Net: NetName=H_AND1(E) Pin=C2-2
+Added Pin To Net: NetName=H_AND1(E) Pin=Q3-2
+Added Pin To Net: NetName=H_AND1(E) Pin=SW1-3
+Added Net: Name=H_AND1(E)
+Added Pin To Net: NetName=H_AND2(G) Pin=C9-2
+Added Pin To Net: NetName=H_AND2(G) Pin=Q9-2
+Added Pin To Net: NetName=H_AND2(G) Pin=SW1-4
+Added Net: Name=H_AND2(G)
+Added Pin To Net: NetName=HJOY1 Pin=J1-4
+Added Net: Name=HJOY1
+Added Pin To Net: NetName=HJOY2 Pin=J1-2
+Added Net: Name=HJOY2
+Added Pin To Net: NetName=HSYNC(A) Pin=C3-1
+Added Pin To Net: NetName=HSYNC(A) Pin=C10-1
+Added Net: Name=HSYNC(A)
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=C2-1
+Added Pin To Net: NetName=NetC1_1 Pin=Q2-2
+Added Pin To Net: NetName=NetC1_1 Pin=R2-1
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetC1_2 Pin=R3-1
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=R5-1
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=C5-1
+Added Pin To Net: NetName=NetC4_1 Pin=Q5-1
+Added Pin To Net: NetName=NetC4_1 Pin=R9-1
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=R12-1
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=Q5-2
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=C9-1
+Added Pin To Net: NetName=NetC8_1 Pin=Q8-2
+Added Pin To Net: NetName=NetC8_1 Pin=R17-1
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=Q7-2
+Added Pin To Net: NetName=NetC8_2 Pin=R18-1
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC10_2 Pin=R20-1
+Added Net: Name=NetC10_2
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Pin To Net: NetName=NetC11_1 Pin=C12-1
+Added Pin To Net: NetName=NetC11_1 Pin=Q11-1
+Added Pin To Net: NetName=NetC11_1 Pin=R24-1
+Added Net: Name=NetC11_1
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Pin To Net: NetName=NetC11_2 Pin=C14-2
+Added Pin To Net: NetName=NetC11_2 Pin=Q10-1
+Added Pin To Net: NetName=NetC11_2 Pin=Q10-2
+Added Pin To Net: NetName=NetC11_2 Pin=R23-1
+Added Pin To Net: NetName=NetC11_2 Pin=R25-1
+Added Pin To Net: NetName=NetC11_2 Pin=R26-1
+Added Net: Name=NetC11_2
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Pin To Net: NetName=NetC13_2 Pin=R27-1
+Added Net: Name=NetC13_2
+Added Pin To Net: NetName=NetC14_1 Pin=C14-1
+Added Pin To Net: NetName=NetC14_1 Pin=Q11-2
+Added Net: Name=NetC14_1
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R4-1
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ2_3 Pin=Q2-3
+Added Net: Name=NetQ2_3
+Added Pin To Net: NetName=NetQ7_1 Pin=Q7-1
+Added Pin To Net: NetName=NetQ7_1 Pin=R16-1
+Added Pin To Net: NetName=NetQ7_1 Pin=R19-1
+Added Net: Name=NetQ7_1
+Added Pin To Net: NetName=NetQ8_3 Pin=Q8-3
+Added Net: Name=NetQ8_3
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=R7-2
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=NetR13_1 Pin=R14-2
+Added Net: Name=NetR13_1
+Added Pin To Net: NetName=NetR21_1 Pin=R21-1
+Added Pin To Net: NetName=NetR21_1 Pin=R22-2
+Added Net: Name=NetR21_1
+Added Pin To Net: NetName=NetR28_1 Pin=R28-1
+Added Pin To Net: NetName=NetR28_1 Pin=R29-2
+Added Net: Name=NetR28_1
+Added Pin To Net: NetName=V_AND1(F) Pin=C5-2
+Added Pin To Net: NetName=V_AND1(F) Pin=Q6-2
+Added Pin To Net: NetName=V_AND1(F) Pin=SW1-1
+Added Net: Name=V_AND1(F)
+Added Pin To Net: NetName=V_AND2(H) Pin=C12-2
+Added Pin To Net: NetName=V_AND2(H) Pin=Q12-2
+Added Pin To Net: NetName=V_AND2(H) Pin=SW1-6
+Added Net: Name=V_AND2(H)
+Added Pin To Net: NetName=VDMV_SW Pin=C4-2
+Added Pin To Net: NetName=VDMV_SW Pin=C7-2
+Added Pin To Net: NetName=VDMV_SW Pin=Q4-1
+Added Pin To Net: NetName=VDMV_SW Pin=Q4-2
+Added Pin To Net: NetName=VDMV_SW Pin=R8-1
+Added Pin To Net: NetName=VDMV_SW Pin=R10-1
+Added Pin To Net: NetName=VDMV_SW Pin=R11-1
+Added Net: Name=VDMV_SW
+Added Pin To Net: NetName=VJOY1 Pin=J1-3
+Added Net: Name=VJOY1
+Added Pin To Net: NetName=VJOY2 Pin=J1-1
+Added Net: Name=VJOY2
+Added Pin To Net: NetName=VSYNC(B) Pin=C6-1
+Added Pin To Net: NetName=VSYNC(B) Pin=C13-1
+Added Net: Name=VSYNC(B)
+Added Class: Name=DMV
