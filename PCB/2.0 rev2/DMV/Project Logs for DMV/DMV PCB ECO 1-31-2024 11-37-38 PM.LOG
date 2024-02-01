@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=V_AND1(F) Pin=SW1-1
+Removed Pin From Net: NetName=H_AND1(E) Pin=SW1-3
+Removed Pin From Net: NetName=H_AND2(G) Pin=SW1-4
+Removed Pin From Net: NetName=V_AND2(H) Pin=SW1-6
+Added Pin To Net: NetName=H_AND1(E) Pin=SW1-1
+Added Pin To Net: NetName=V_AND1(F) Pin=SW1-3
+Added Pin To Net: NetName=V_AND2(H) Pin=SW1-4
+Added Pin To Net: NetName=H_AND2(G) Pin=SW1-6

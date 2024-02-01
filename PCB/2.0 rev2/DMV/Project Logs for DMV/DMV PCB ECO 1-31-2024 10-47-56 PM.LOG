@@ -1,0 +1,62 @@
+Removed Pin From Net: NetName=GND Pin=J1-1
+Removed Pin From Net: NetName=HJOY1 Pin=J1-2
+Removed Pin From Net: NetName=VJOY1 Pin=J1-3
+Removed Pin From Net: NetName=+9 Pin=J1-4
+Removed Pin From Net: NetName=GND Pin=J1-5
+Removed Pin From Net: NetName=GND Pin=J1-6
+Removed Pin From Net: NetName=GND Pin=J2-1
+Removed Pin From Net: NetName=HJOY2 Pin=J2-2
+Removed Pin From Net: NetName=VJOY2 Pin=J2-3
+Removed Pin From Net: NetName=+9 Pin=J2-4
+Removed Pin From Net: NetName=GND Pin=J2-5
+Removed Pin From Net: NetName=GND Pin=J2-6
+Removed Member From Class: ClassName=DMV Member=J1
+Removed Member From Class: ClassName=DMV Member=J2
+Added Component: Designator=BNC1(5413631-1_TYC)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2024 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "5413631-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=BNC2(5413631-1_TYC)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2024 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "5413631-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=BNC3(5413631-1_TYC)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2024 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "5413631-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=BNC4(5413631-1_TYC)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2024 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "5413631-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VJOY1 Pin=BNC1-1
+Added Pin To Net: NetName=GND Pin=BNC1-2
+Added Pin To Net: NetName=GND Pin=BNC1-3
+Added Pin To Net: NetName=GND Pin=BNC1-4
+Added Pin To Net: NetName=GND Pin=BNC1-5
+Added Pin To Net: NetName=HJOY1 Pin=BNC2-1
+Added Pin To Net: NetName=GND Pin=BNC2-2
+Added Pin To Net: NetName=GND Pin=BNC2-3
+Added Pin To Net: NetName=GND Pin=BNC2-4
+Added Pin To Net: NetName=GND Pin=BNC2-5
+Added Pin To Net: NetName=VJOY2 Pin=BNC3-1
+Added Pin To Net: NetName=GND Pin=BNC3-2
+Added Pin To Net: NetName=GND Pin=BNC3-3
+Added Pin To Net: NetName=GND Pin=BNC3-4
+Added Pin To Net: NetName=GND Pin=BNC3-5
+Added Pin To Net: NetName=HJOY2 Pin=BNC4-1
+Added Pin To Net: NetName=GND Pin=BNC4-2
+Added Pin To Net: NetName=GND Pin=BNC4-3
+Added Pin To Net: NetName=GND Pin=BNC4-4
+Added Pin To Net: NetName=GND Pin=BNC4-5
+Added Member To Class: ClassName=DMV Member=Component BNC1 5413631-1
+Added Member To Class: ClassName=DMV Member=Component BNC2 5413631-1
+Added Member To Class: ClassName=DMV Member=Component BNC3 5413631-1
+Added Member To Class: ClassName=DMV Member=Component BNC4 5413631-1

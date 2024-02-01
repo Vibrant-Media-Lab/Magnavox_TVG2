@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=VJOY2 Pin=J1-1
+Removed Pin From Net: NetName=HJOY2 Pin=J1-2
+Removed Pin From Net: NetName=VJOY1 Pin=J1-3
+Removed Pin From Net: NetName=HJOY1 Pin=J1-4
+Added Component: Designator=J?(CONN_AH-1-TH)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2024 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "102-3996-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "UP2-AH-1-TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "CUI Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=VJOY1 Pin=J1-2
+Added Pin To Net: NetName=HJOY1 Pin=J1-3
+Added Pin To Net: NetName=+9 Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=VJOY2 Pin=J?-2
+Added Pin To Net: NetName=HJOY2 Pin=J?-3
+Added Pin To Net: NetName=+9 Pin=J?-4
+Added Pin To Net: NetName=GND Pin=J?-5
+Added Pin To Net: NetName=GND Pin=J?-6
+Added Class: Name=JOYSTICK
+Added Member To Class: ClassName=DMV Member=Component J? UP2-AH-1-TH
