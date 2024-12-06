@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=VDO_H Pin=J1-3
+Removed Pin From Net: NetName=VDO_OUT Pin=J2-4
+Added Pin To Net: NetName=VDO_OUT Pin=J1-3
+Added Pin To Net: NetName=VDO_H Pin=J2-4
+Added Member To Class: ClassName=VDO Shaper, GateV3 Member=Component J1 61300611121
+Added Member To Class: ClassName=VDO Shaper, GateV3 Member=Component J2 61300611121
