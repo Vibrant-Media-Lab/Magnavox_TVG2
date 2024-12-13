@@ -1,0 +1,57 @@
+Added Component: Designator=C1(XR2C-0311-N-Capacitor)
+Added Component: Designator=C2(XR2C-0311-N-Capacitor)
+Added Component: Designator=C3(XR2C-0311-N-Capacitor)
+Added Component: Designator=J1(61300511121)
+Added Component: Designator=J2(61300511121)
+Added Component: Designator=Q1(XR2C-0311-N)
+Added Component: Designator=Q2(XR2C-0311-N)
+Added Component: Designator=R1(714-43-104-31-018000)
+Added Component: Designator=R2(714-43-104-31-018000)
+Added Component: Designator=R3(714-43-104-31-018000)
+Added Component: Designator=VR1(TRIM_3352T-1-104LF)
+Added Component: Designator=VR2(TRIM_3352T-1-104LF)
+Added Pin To Net: NetName=-9 Pin=J1-3
+Added Pin To Net: NetName=-9 Pin=J2-3
+Added Pin To Net: NetName=-9 Pin=R3-1
+Added Pin To Net: NetName=-9 Pin=VR1-2
+Added Pin To Net: NetName=-9 Pin=VR2-2
+Added Net: Name=-9
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=GND Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q2-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=C3-2
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=VR1-3
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=VR2-3
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=VDO_HGATE Pin=C1-2
+Added Pin To Net: NetName=VDO_HGATE Pin=J1-2
+Added Pin To Net: NetName=VDO_HGATE Pin=J1-4
+Added Pin To Net: NetName=VDO_HGATE Pin=Q1-2
+Added Pin To Net: NetName=VDO_HGATE Pin=R1-1
+Added Net: Name=VDO_HGATE
+Added Pin To Net: NetName=VDO_H Pin=C1-1
+Added Pin To Net: NetName=VDO_H Pin=J2-1
+Added Net: Name=VDO_H
+Added Pin To Net: NetName=VDO_OUT Pin=J1-1
+Added Pin To Net: NetName=VDO_OUT Pin=Q1-3
+Added Pin To Net: NetName=VDO_OUT Pin=Q2-3
+Added Pin To Net: NetName=VDO_OUT Pin=R3-2
+Added Net: Name=VDO_OUT
+Added Pin To Net: NetName=VDO_VGATE Pin=C2-2
+Added Pin To Net: NetName=VDO_VGATE Pin=J2-2
+Added Pin To Net: NetName=VDO_VGATE Pin=J2-4
+Added Pin To Net: NetName=VDO_VGATE Pin=Q2-2
+Added Pin To Net: NetName=VDO_VGATE Pin=R2-2
+Added Net: Name=VDO_VGATE
+Added Pin To Net: NetName=VDO_V Pin=C3-1
+Added Pin To Net: NetName=VDO_V Pin=J2-5
+Added Net: Name=VDO_V
+Added Class: Name=VDO Shaper, GateV3
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
